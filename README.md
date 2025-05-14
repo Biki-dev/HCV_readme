@@ -51,7 +51,7 @@ Data is stored in MongoDB and dynamically rendered using Next.js for efficient h
 ## Deployment
 
 - **Frontend** deployed on **Vercel**  
-  Visit: 
+  
 - **Backend** deployed on **Render**  
   
 
