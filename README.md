@@ -2,7 +2,7 @@
 
 **QuantumIQ** is an interactive quiz web app based on HC Verma's Concepts of Physics. It helps students revise and test their understanding of physics through chapter-wise multiple-choice questions with detailed solutions.
 
-[![Deploy with Vercel](https://vercel.app)](https://vercel.app)  
+[![Deploy with Vercel](https://vercel.app/api/project/button)](https://quantumimq.vercel.app)  
 
 ---
 
