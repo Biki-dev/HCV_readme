@@ -50,8 +50,10 @@ Data is stored in MongoDB and dynamically rendered using Next.js for efficient h
 
 ## Deployment
 
-Deployed on **Vercel**  
-Visit: [https://quantumimq.vercel.app](https://quantumimq.vercel.app)
+- **Frontend** deployed on **Vercel**  
+  Visit: 
+- **Backend** deployed on **Render**  
+  
 
 ---
 
